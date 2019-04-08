@@ -9,5 +9,7 @@ public class Git {
 
         System.out.println("nihao");
 
+        System.out.println("hello");
+
     }
 }
