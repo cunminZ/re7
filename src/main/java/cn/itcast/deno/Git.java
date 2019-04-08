@@ -15,5 +15,7 @@ public class Git {
 
         System.out.println("nicai");
 
+        System.out.println(Math.PI);
+
     }
 }
