@@ -12,5 +12,7 @@ public class Git {
         System.out.println("hello");
         System.out.println("nicai");
         System.out.println(Math.PI);
+
+        System.out.println("这是一个冲突");
     }
 }
